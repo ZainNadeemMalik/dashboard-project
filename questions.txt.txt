@@ -1,0 +1,47 @@
+how to get better and how to improve at the html layouts/nesting?
+
+how to get better at naming classes?
+
+what are the best practices regarding having img/svgs in or out a div or not? does it change if they are
+inside a flex/grid container?
+
+THE SVGS ARE ALL THERE BUT THEY AREN'T SHOWING UP BECAUSE OF FLEX BOX, I THINK, WHY IS THAT?
+
+i am using inlive svgs, is that the best way to go about it? should i use them with the img tag with the
+svgs in a seperate folder? but that limits their styling though doesn't it?
+
+how to change the color of the svgs?
+
+how to change the sizes of imgs/svgs dynamically? in this project i wanted them to be equal to the text in
+the sidebar but couldn't manage that.
+
+the imgs/svgs would disappear if i had a display flex and align-items and justify-content of center on them
+why is that behaviour happening?
+
+in the header's hi there section the profile icon was supposed to be the same height/size as the hi there
+and the @zainnadeem section, how to do that?
+
+the search bar i created with just a div with an explicit height and width on it, is there a better solution
+to it?
+
+what is the best practice of having a width and a height on a img? best way to apply them? is it the same
+for svgs as well?
+
+the your projects grid is shorter than the annoucements/trending grid, even though they are both part of the
+same container grid, how to make sure they're both always equal?
+
+i have included the design file that i was trying to recreate as well, this is how close i got before
+i gave up, any tips/advice/pointers (general or specific) you can give me with the comparison.
+
+in the design file this was all just one page, without any scroll, but at least on my screen my created layout 
+had scroll, is this something i should be concerned about?
+
+any mistake or ameturish/repetitive/redundant thing i did in the code please point that out and how to fix it
+improve upon it?
+
+is there a standard of best practices documentation for html, css i can follow?
+
+anything else i have missed and improve upon please do point that out.
+
+thank you for reading and helping me out
+
